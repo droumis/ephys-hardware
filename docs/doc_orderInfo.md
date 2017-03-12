@@ -45,6 +45,6 @@ verowhite
 ~get a bulk order small part discount
 ~90% yield
 ~reuse more than once not recommended
-~consider injection molding instead
+~consider injection molding instead (~$5k for mold, $0.5/part)
 
 
