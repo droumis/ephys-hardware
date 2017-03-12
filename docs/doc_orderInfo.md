@@ -26,4 +26,25 @@ amberclear
 >>materials:
 veroblack
 
+Components:
+3DPRINTshuttle
+
+>Recommended
+
+>>vendors:
+stratasys direct manufacturing,
+fictiv
+
+>>methods:
+polyjet HD
+
+>>materials:
+verowhite
+
+>>comments:
+~get a bulk order small part discount
+~90% yield
+~reuse more than once not recommended
+~consider injection molding instead
+
 
