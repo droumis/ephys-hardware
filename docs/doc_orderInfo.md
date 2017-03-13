@@ -1,4 +1,4 @@
-# physiology
+# ephys component ordering info
 
 | Components | vendors   | methods  | materials |comments |
 | ------------- |:-------------:| -----:| ------------- |:-------------:| 
